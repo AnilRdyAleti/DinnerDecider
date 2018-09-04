@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android Projects\\DinnerDecider\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "outputFile": "C:\\Users\\anilreddy\\Documents\\DinnerDecider\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
             "map": [
                 {
                     "source": "C:\\Users\\anilreddy\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc02.aar\\e4d90c5b1e7576cc1731c66f1678038c\\res\\values-de\\values-de.xml",

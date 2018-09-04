@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android Projects\\DinnerDecider\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\anilreddy\\Documents\\DinnerDecider\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
                     "source": "C:\\Users\\anilreddy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc02.aar\\d4ad0c24acbde245656557974f685b4f\\res\\values-land\\values-land.xml",

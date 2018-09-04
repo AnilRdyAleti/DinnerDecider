@@ -62,7 +62,7 @@ MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\anilr
 	android:label
 		ADDED from C:\Users\anilreddy\Documents\DinnerDecider\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\anilreddy\Documents\DinnerDecider\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\anilreddy\Documents\DinnerDecider\app\src\main\AndroidManifest.xml:9:9-44
 	android:icon
 		ADDED from C:\Users\anilreddy\Documents\DinnerDecider\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup

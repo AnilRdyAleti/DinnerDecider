@@ -2,7 +2,6 @@ package com.example.anilreddy.dinnerdecider
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import com.example.anilreddy.dinnerdecider.R.id.btn_dinner_decider
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 

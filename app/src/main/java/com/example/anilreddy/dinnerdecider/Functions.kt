@@ -15,7 +15,7 @@ fun main(args: Array<String>){
     printString("Hello this is a String value")
 
 
-    fun Int addNumber(var a: Int, b: Int) {
- 
+    fun  addNumber( a: Int, b: Int) {
+
     }
 }

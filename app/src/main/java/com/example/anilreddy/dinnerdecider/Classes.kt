@@ -1,7 +1,7 @@
 package com.example.anilreddy.dinnerdecider
 
-class FirstClsInKotlin{
-    fun methodOne(){
+class FirstClsInKotlin(val name: String, val id: Int) {
+    fun methodOne() {
 
     }
 }

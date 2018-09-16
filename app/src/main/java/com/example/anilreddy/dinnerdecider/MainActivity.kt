@@ -2,6 +2,7 @@ package com.example.anilreddy.dinnerdecider
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
@@ -23,9 +24,13 @@ class MainActivity : AppCompatActivity() {
         btn_add_food.setOnClickListener {
 
             val newFood = et_add_new_food.text.toString()
+            if (newFood != "" || !(newFood.isEmpty())){
             food.add(newFood)
             food_text.text = newFood
             et_add_new_food.text.clear()
+            }  else{
+                Toast.makeText(this,"Please Enter Food Name", Toast.LENGTH_SHORT).show()
+            }
 
         }
 

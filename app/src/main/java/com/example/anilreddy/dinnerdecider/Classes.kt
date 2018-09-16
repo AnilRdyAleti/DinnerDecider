@@ -1,7 +1,7 @@
 package com.example.anilreddy.dinnerdecider
 
 fun main(args: Array<String>){
-    var car = Car("BMW","2018", "Black")
+    val car = Car("BMW","2018", "Black")
     println("The car is ${car.name}, ${car.model} and it's color is ${car.color}")
     car.accelerate()
     car.park()
@@ -10,7 +10,7 @@ fun main(args: Array<String>){
 
 open class Vehicle(val name: String, val model: String) {
 
-    fun accelerate() {
+   open fun accelerate() {
         println("Double Speed..........")
     }
 
@@ -24,6 +24,10 @@ open class Vehicle(val name: String, val model: String) {
 }
 
 class Car(name: String, model: String, var color: String) : Vehicle(name, model) {
+
+    override fun accelerate() {
+        println("car accelerate")
+    }
 
 }
 

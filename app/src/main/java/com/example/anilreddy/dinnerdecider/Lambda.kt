@@ -8,3 +8,8 @@ fun main(args: Array<String>) {
     printMessage("Hola, Hola........")
     println(Sum(3 ,9))
 }
+
+fun mjl() {
+    printMessage("Hola, Hola........")
+    println(Sum(3 ,9))
+}

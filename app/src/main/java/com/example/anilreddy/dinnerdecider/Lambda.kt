@@ -28,3 +28,8 @@ fun min1() {
     printMessage("Hola, Hola........")
     println(Sum(3 ,9))
 }
+
+fun min2() {
+    printMessage("Hola, Hola........")
+    println(Sum(3 ,9))
+}
